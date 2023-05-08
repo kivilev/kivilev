@@ -7,7 +7,7 @@ I have expertise in: Java 8-17, Kotlin 1.6+, Spring, Spring Boot, Oracle 9+, PL/
 I am also involved in educational activities and developing an Oracle DBMS community in CIS region. I am the creator and author of several YouTube/Telegram channels (with thousands of subscribers). I create training programs (PL/SQL, partitioning, optimization) and provide training. Many people have improved their qualifications with my help.
 
 📫 **How to reach me:** 
-- telegram: @kivilev
+- telegram: [@kivilev](https://t.me/kivilev)
 - email: kivilev.d@gmail.com
 - whatsapp: +995 591 01 77 58
 - linkedin: https://www.linkedin.com/in/kivilev/

@@ -9,7 +9,7 @@ I am also involved in educational activities and developing an Oracle DBMS commu
 📫 **How to reach me:** 
 - telegram: [@kivilev](https://t.me/kivilev)
 - email: kivilev.d@gmail.com
-- WhatsApp: +995 591 01 77 58
+- WhatsApp: [+995 591 01 77 58](https://wa.me/995591017758)
 - Linkedin: https://www.linkedin.com/in/kivilev/
 
 <!--

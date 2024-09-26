@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis Kivilev</h1>
 
-I'm a Java/Oracle developer with over 19+ years of experience in the fintech, retail, banking, and education sectors.  
+I'm a Java/Oracle developer with over 10+ years of experience in the fintech, retail, banking, and education sectors.  
 
 I have expertise in Java 8+, Kotlin 1.6+, Spring, Spring Boot 2-3, Oracle 9+, PL/SQL, SQL, optimization, PostgreSQL 10+, Kafka, Redis, Junit4/5, Mockito, Groovy, Kibana, Grafana, Docker, Kubernetes, Maven, Gradle, TeamCity, Nexus, Git, Github, GitLab, Jira, Confluence.  
 
